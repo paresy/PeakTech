@@ -1,0 +1,16 @@
+{
+    "id": "{EEF7343E-6ED9-EDB3-3BAB-7F9DEF530B13}",
+    "name": "P8005",
+    "type": 3,
+    "vendor": "PeakTech",
+    "aliases": [],
+    "parentRequirements": [
+        "{79827379-F36E-4ADA-8A95-5F8D1DC92FA9}"
+    ],
+    "childRequirements": [],
+    "implemented": [
+        "{018EF6B5-AB94-40C6-AA53-46943E824ACF}"
+    ],
+    "prefix": "PT",
+    "url": "https://github.com/paresy/PeakTech"
+}
