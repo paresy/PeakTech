@@ -20,7 +20,7 @@ class P8005 extends IPSModule
         $this->RegisterVariableFloat('Level', 'Level', 'Loudness');
 
         //Create a preconfigured cutter
-        $this->ConnectParent('{AC6C6E74-C797-40B3-BA82-F135D941D1A2}');
+        $this->RequireParent('{AC6C6E74-C797-40B3-BA82-F135D941D1A2}');
     }
 
     public function GetConfigurationForParent()
